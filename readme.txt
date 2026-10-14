@@ -1,3 +1,6 @@
+CFM(2.0) added a second matching method. According to the corrected article description, this folder contains all the necessary code. Just run demo_CFM_core.m to start.
+
+CFM(old)：
 首次运行时，需先打开matlab软件，运行程序demo_CFM_core.exe时，桌面可能没有任何反应，可能需要大量时间，请耐心等待
 The first time you run it, you need to open the MATLAB software first. When running the program demo_CFM_core.exe, your desktop might not respond at all, and it may take a long time, so please be patient.
 
